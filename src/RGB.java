@@ -6,7 +6,7 @@ public class RGB {
     private int green;
     private int blue;
 
-    // Constructors
+    // Constructors/
 
     /**
      * Default constructor, initializes channels to 0 (a black pixel)
