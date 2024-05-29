@@ -17,7 +17,7 @@ import java.io.IOException;
 public class Img extends JPanel {
     private BufferedImage image;
 
-    // Constructors/
+    // Constructors
 
     /**
      * Creates an Img object from the image at the path specified
